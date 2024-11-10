@@ -1,0 +1,19 @@
+.main-container {
+    background: #f4f5f8;
+    height: 90vh;
+    width: 90vw;
+    display: flex;
+    border-radius: 20px;
+
+}
+
+.sidebar-container {
+    flex: .3;
+    border: 5px solid red;
+}
+
+.workarea-container {
+    flex: .7;
+    border: 5px solid blue;
+
+}
